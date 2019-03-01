@@ -482,7 +482,7 @@ If set to true measure will be interpreted in UI as "better" when value is lower
 
 **format** (string)  default: "0,0.0 a"
 
-Default format for measure as string in [numbro format](http://numbrojs.com/old-format.html).
+Default format for measure as string in [numbro format](https://numbrojs.com/format.html).
 
 **formula** (string - plywood expression)
 
