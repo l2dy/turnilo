@@ -179,7 +179,7 @@
     "regex-replace-loader": "1.0.0",
     "rewire": "2.5.2",
     "rimraf": "2.6.2",
-    "sass-lint": "1.12.1",
+    "sass-lint": "1.13.0",
     "sass-loader": "6.0.7",
     "sinon": "4.1.4",
     "size-limit": "7.0.8",
